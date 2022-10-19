@@ -60,6 +60,6 @@ Toda vez que você adicionar um novo comando ao Bot, você precisa rodar o arqui
 > node deploy-commands.js
 
 Para remover um comando rode o arquivo delete-commands.js
-> delete-commands.js
+> node delete-commands.js
 
-Você pode aprender mais a como usar esses arquivos e sobre slash commands no <a href="https://discordjs.guide/">Gia Oficial</a> do Discord.js
+Você pode aprender mais a como usar esses arquivos e sobre slash commands no <a href="https://discordjs.guide/">Guia Oficial</a> do Discord.js
