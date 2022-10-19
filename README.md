@@ -1,7 +1,31 @@
 <h1 align="center">Seu Jão Bot</h1>
 <p align="center">Um Bot para o Discord desenvolvido com <a href="https://discord.js.org/#/">discord.js</a></p>
 
-# Como usar
+# Funcionalidades:
+* Criar um perfil para o usuário
+* Editar o perfil
+* Ver o perfil do usuário
+* Sistema monetário (10 coins acada mensagem enviada)
+* Criar um emblema ou pet (emoji)
+* Remover um emblema ou pet
+* Criar uma loja de emblema e uma de pet separada em dois canais de texto diferentes
+* Atualizar a loja
+* Dar coins para um outro usuário
+* Dar um emblema ou um pet para um outro usuário
+
+# Comandos:
+* /criar
+* /editarperfil
+* /perfil
+* /adicionaritem
+* /deletaritem
+* /criarloja
+* /atualizarloja
+* /darcoins
+* /daremblema
+* /darpet
+
+# Como iniciar:
 
 # Pré-requisitos
 * Uma aplicação criada no <a href="https://discord.com/developers/applications">discord developers</a>
