@@ -34,6 +34,7 @@
 
 ## Comandos iniciais
 > git clone https://github.com/MatDev435/seu-jao-discord-bot<br>
+
 > npm install
 
 
