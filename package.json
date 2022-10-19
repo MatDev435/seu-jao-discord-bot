@@ -1,0 +1,17 @@
+{
+  "name": "seu-jao-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "mongoose": "^6.6.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
