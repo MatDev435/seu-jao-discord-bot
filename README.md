@@ -54,3 +54,12 @@ Precisamos adicionar algumas variáveis neste arquivo
 Após isso, os seus arquivos estão prontos!
 
 Rode <node .> no terminal para iniciar a aplicação.
+
+## Informações sobre comandos
+Toda vez que você adicionar um novo comando ao Bot, você precisa rodar o arquivo deploy-commands.js
+> node deploy-commands.js
+
+Para remover um comando rode o arquivo delete-commands.js
+> delete-commands.js
+
+Você pode aprender mais a como usar esses arquivos e sobre slash commands no <a href="https://discordjs.guide/">Gia Oficial</a> do Discord.js
