@@ -1,7 +1,7 @@
 <h1 align="center">Seu Jão Bot</h1>
 <p align="center">Um Bot para o Discord desenvolvido com <a href="https://discord.js.org/#/">discord.js</a></p>
 
-# Funcionalidades:
+## Funcionalidades:
 * Criar um perfil para o usuário
 * Editar o perfil
 * Ver o perfil do usuário
@@ -13,7 +13,7 @@
 * Dar coins para um outro usuário
 * Dar um emblema ou um pet para um outro usuário
 
-# Comandos:
+## Comandos:
 * /criar
 * /editarperfil
 * /perfil
@@ -25,19 +25,19 @@
 * /daremblema
 * /darpet
 
-# Como iniciar:
+## Como iniciar:
 
-# Pré-requisitos
+## Pré-requisitos
 * Uma aplicação criada no <a href="https://discord.com/developers/applications">discord developers</a>
 * <a href="https://nodejs.org/en/">Node.js</a>
 * Conta no <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-br_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624308&adgroup=115749706023&gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfUPGnmrDQ-KmubvizLjJ-SCfNuzEupOy5hgNBFFAGpaIhZnjsxE-NYaAr2lEALw_wcB">MongoDB Atlas</a>
 
-# Comandos iniciais
+## Comandos iniciais
 * git clone https://github.com/MatDev435/seu-jao-discord-bot
 * npm install
 
 
-# Arquivo config.json
+## Arquivo config.json
 Algumas informações precisam ser guardadas em um arquivo de configurações na raiz do projeto.
 
 * Crie um arquivo chamado <config.json>
